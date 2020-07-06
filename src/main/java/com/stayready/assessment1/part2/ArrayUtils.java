@@ -49,4 +49,8 @@ public class ArrayUtils {
     public static Object[] mergeArrays(Object[] objectArray, Object[] objectArrayToAdd) {
         return null;
     }
+
+	public static String[] reverse(String[] stringArray) {
+		return null;
+	}
 }
